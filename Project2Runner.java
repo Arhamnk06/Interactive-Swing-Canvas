@@ -5,8 +5,6 @@ import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * Name: Arham
- * Student ID: 501288044
  *
  * Project Title: Situationship Simulator+
  *
